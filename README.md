@@ -1,8 +1,8 @@
-# JOBSEARCH-capstone
+# JOBSEARCH-capstone(GROUP PROJECT)
 Given data on the popular skills in the following job areas: Artificial Intelligence, Deep Learning, and Machine Learning, how can it be organized for users to analyze based on their specific skill sets?
 
 
-
+Site: http://rozzanon.sgedu.site/careerbuilder/
 ---- 
 Purpose of the System
 The system will be focused on storing data relevant to the following jobs: Artificial Intelligence, Deep Learning, and Machine Learning and displaying the data in a manner that is useful for the project's stakeholders (i.e. user groups), which includes human resources, management, workforce planning, and job seekers. The data that will be stored includes information on technology skills, soft skills, job location, pay range, and job boards used. Dashboard, created for each user group, will utilize the data that is collected and will be available on a website to access. 
